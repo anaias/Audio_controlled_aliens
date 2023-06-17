@@ -1,0 +1,24 @@
+body {
+    background-image:url("gradient2.jpg");
+    background-size:cover;
+    position:center;
+    font-family: 'Satisfy', cursive;
+
+}
+
+.header_div{
+background-color:rgb(189, 238, 222);
+color:rgba(28, 17, 235, 0.77);
+}
+
+.footer{
+    position:fixed;
+    background-color:floralwhite;
+    width:100%;
+    line-height:3;
+    bottom:0;
+    font-size:18px;
+    text-align:center;
+    text-shadow:3px 3px 3px cyan;
+    color:blue;
+}
